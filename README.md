@@ -1,5 +1,5 @@
 1. Hello, I'm Maksymilian Bilski and I'm living in Poland,
-2. Currently being on long-term fullstack developer course,
+2. Finished long-term fullstack course(MERN stack),
 3. Besides coding I like to do some sports, also I'm interested in alternative medicine and self-development,
 4. You can reach me here: biger9@o2.pl
 
